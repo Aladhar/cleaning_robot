@@ -41,7 +41,7 @@ This repository contains code for an Arduino-based cleaning robot. The robot is 
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-##Proof of Functionality
+## Proof of Functionality
 https://youtu.be/E35WqhHAycA
 
 ## Issues
